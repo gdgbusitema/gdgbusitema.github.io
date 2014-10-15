@@ -1,0 +1,66 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 001
+  title: "Keynote: Ingredients of A Great App"
+  description: "Daniel will share his experiences and insights on building successful & great applications such as Matatu, the most popular local game in East Africa"
+  subtype: keynote
+  speakers: [3]
+  language: en
+  complexity: "Beginner"
+-
+  id: 002
+  title: "Analytics: The Use of mobile app analytics to improve app engagement and performance"
+  description: ""
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Beginner"
+-
+  id: 003
+  title: "Easy, fast networking in Android: Tools & Techniques"
+  description: ""
+  subtype: workshop
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 004
+  title: "Testing Android Apps: Tools & Techniques"
+  description: ""
+  subtype: workshop
+  speakers: [6]
+  language: en
+  complexity: "Expert"
+-
+  id: 005
+  title: "Google Cloud Messaging: Implementing a GCM client"
+  description: ""
+  subtype: workshop
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 006
+  title: "Hack and Tell"
+  description: "Developers will be showcasing apps they've built"
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Beginner"
+-
+  id: 007
+  title: "Android Design Priniciples"
+  description: "Learn how to keep the user's best interests in mind"
+  subtype: presentation
+  speakers: [8]
+  language: en
+  complexity: "Beginner"

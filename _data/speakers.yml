@@ -1,0 +1,79 @@
+- 
+  id: 3
+  name: "Daniel"
+  surname: "Okalany"
+  company: "Kola Studios"
+  title: "Founder/Lead Programmer"
+  bio: ""
+  thumbnailUrl: DanielOkalany.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111628083053413737975"}
+    - {name: "twitter", link: "https://twitter.com/dokalanyi"}
+    - {name: "github", link: "https://github.com/dokalanyi"}
+- 
+  id: 4
+  name: "James"
+  surname: "Muranga"
+  company: "ThoughtWorks"
+  title: "Applications Developer"
+  bio: ""
+  thumbnailUrl: JamesMuranga.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/117606997127820869008"}
+    - {name: "twitter", link: "https://twitter.com/murangajames"}
+    - {name: "github", link: "https://github.com/JamesMura"}
+- 
+  id: 5
+  name: "Samuel Paul"
+  surname: "Remo"
+  company: "ThoughtWorks, CodeSync"
+  title: "Applications Developer"
+  bio: ''
+  thumbnailUrl: SamuelRemo.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/109345889559981583928"}
+    - {name: "twitter", link: "https://twitter.com/remo4sam"}
+    - {name: "github", link: "https://github.com/remo4sam"}
+
+- 
+  id: 6
+  name: "Augustine"
+  surname: "Kisitu"
+  company: "ThoughtWorks"
+  title: "Applications Developer"
+  bio: ""
+  thumbnailUrl: AugustineKisitu.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/108345695978241560980"}
+    - {name: "twitter", link: "https://twitter.com/austiine04"}
+    - {name: "github", link: "https://github.com/austiine04"}
+
+- 
+  id: 7
+  name: "Zed Jasper"
+  surname: "Onono"
+  company: "Kola Studios"
+  title: "Founder/Engine Programmer"
+  bio: ""
+  thumbnailUrl: JasperOnono.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JasperOnonoZed/"}
+    - {name: "twitter", link: "https://twitter.com/zedjasper"}
+
+- 
+  id: 8
+  name: "Caesar"
+  surname: "Mukama"
+  company: "Devolv"
+  title: "Founder"
+  bio: ""
+  thumbnailUrl: CaesarMukama.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+CaesarMukama/"}
+    - {name: "twitter", link: "https://twitter.com/CA3S"}
