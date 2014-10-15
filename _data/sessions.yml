@@ -1,32 +1,27 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
--
   id: 503
   title: "Lunch Break"
   place: "Dining room"
   service: true
 -
   id: 001
-  title: "Keynote: Ingredients of A Great App"
+  title: "Arrival of Participants"
   description: "Daniel will share his experiences and insights on building successful & great applications such as Matatu, the most popular local game in East Africa"
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: "Beginner"
+-
+  id: 002
+  title: "Keynote"
+  description: ""
   subtype: keynote
   speakers: [3]
   language: en
   complexity: "Beginner"
 -
-  id: 002
-  title: "Analytics: The Use of mobile app analytics to improve app engagement and performance"
-  description: ""
-  subtype: presentation
-  speakers: [7]
-  language: en
-  complexity: "Beginner"
--
   id: 003
-  title: "Easy, fast networking in Android: Tools & Techniques"
+  title: "What's new in Android"
   description: ""
   subtype: workshop
   speakers: [4]
@@ -34,7 +29,7 @@
   complexity: "Intermediate"
 -
   id: 004
-  title: "Testing Android Apps: Tools & Techniques"
+  title: "App Engine Codelab"
   description: ""
   subtype: workshop
   speakers: [6]
@@ -42,25 +37,42 @@
   complexity: "Expert"
 -
   id: 005
-  title: "Google Cloud Messaging: Implementing a GCM client"
+  title: "Exhibition of some apps"
   description: ""
   subtype: workshop
-  speakers: [5]
+  speakers: []
   language: en
   complexity: "Intermediate"
 -
   id: 006
-  title: "Hack and Tell"
-  description: "Developers will be showcasing apps they've built"
+  title: "Teams Brainstorming"
+  description: ""
   subtype: presentation
   speakers: []
   language: en
   complexity: "Beginner"
 -
   id: 007
-  title: "Android Design Priniciples"
+  title: "Idea Presentation"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Beginner"
+
+-
+  id: 008
+  title: "Android Wear"
   description: "Learn how to keep the user's best interests in mind"
   subtype: presentation
-  speakers: [8]
+  speakers: [5]
+  language: en
+  complexity: "Beginner"
+-
+  id: 009
+  title: "Giveaways and solve for [x] awareness"
+  description: ""
+  subtype: presentation
+  speakers: [5]
   language: en
   complexity: "Beginner"

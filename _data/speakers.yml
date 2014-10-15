@@ -1,79 +1,45 @@
 - 
   id: 3
-  name: "Daniel"
-  surname: "Okalany"
-  company: "Kola Studios"
-  title: "Founder/Lead Programmer"
+  name: "Lorna"
+  surname: "Maria"
+  company: ""
+  title: ""
   bio: ""
-  thumbnailUrl: DanielOkalany.jpg
+  thumbnailUrl: LornaMaria.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/111628083053413737975"}
-    - {name: "twitter", link: "https://twitter.com/dokalanyi"}
-    - {name: "github", link: "https://github.com/dokalanyi"}
 - 
   id: 4
-  name: "James"
-  surname: "Muranga"
-  company: "ThoughtWorks"
-  title: "Applications Developer"
+  name: "Edgar"
+  surname: "Atukunda"
+  company: "Lacel Technologies"
+  title: "CEO"
   bio: ""
-  thumbnailUrl: JamesMuranga.jpg
+  thumbnailUrl: EdgarAtukunda.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/117606997127820869008"}
-    - {name: "twitter", link: "https://twitter.com/murangajames"}
-    - {name: "github", link: "https://github.com/JamesMura"}
+    - {name: "google-plus", link: ""}
 - 
   id: 5
-  name: "Samuel Paul"
-  surname: "Remo"
-  company: "ThoughtWorks, CodeSync"
-  title: "Applications Developer"
+  name: "Nicholas"
+  surname: "Kamanzi"
+  company: "GDG, Klaus Labs"
+  title: "Country Mentor, Software Engineer"
   bio: ''
-  thumbnailUrl: SamuelRemo.jpg
+  thumbnailUrl: NicholasKamanzi.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/109345889559981583928"}
-    - {name: "twitter", link: "https://twitter.com/remo4sam"}
-    - {name: "github", link: "https://github.com/remo4sam"}
-
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
 - 
   id: 6
-  name: "Augustine"
-  surname: "Kisitu"
-  company: "ThoughtWorks"
-  title: "Applications Developer"
-  bio: ""
-  thumbnailUrl: AugustineKisitu.jpg
+  name: "George"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: George.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/108345695978241560980"}
-    - {name: "twitter", link: "https://twitter.com/austiine04"}
-    - {name: "github", link: "https://github.com/austiine04"}
-
-- 
-  id: 7
-  name: "Zed Jasper"
-  surname: "Onono"
-  company: "Kola Studios"
-  title: "Founder/Engine Programmer"
-  bio: ""
-  thumbnailUrl: JasperOnono.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JasperOnonoZed/"}
-    - {name: "twitter", link: "https://twitter.com/zedjasper"}
-
-- 
-  id: 8
-  name: "Caesar"
-  surname: "Mukama"
-  company: "Devolv"
-  title: "Founder"
-  bio: ""
-  thumbnailUrl: CaesarMukama.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+CaesarMukama/"}
-    - {name: "twitter", link: "https://twitter.com/CA3S"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}

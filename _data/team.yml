@@ -1,26 +1,23 @@
 - 
   id: 0
-  name: "Timothy"
-  surname: "Asiimwe"
+  name: "Edgar"
+  surname: "Atukunda"
   title: "Lead Organizer"
-  thumbnailUrl: TimothyAsiimwe.jpg
+  thumbnailUrl: EdgarAtukunda.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+TimothyAsiimwe"}
-    - {name: "twitter", link: "https://twitter.com/TimAsiimwe"}
-    - {name: "github", link: "https://github.com/atimothee"}
-    - {name: "site", link: "http://atimothee.github.io/"}
 - 
   id: 1
-  name: "Maghi"
-  surname: "Nanyombi"
-  title: "Lead Organizer"
-  thumbnailUrl: MaghiNanyombi.jpg
+  name: "Nicholas"
+  surname: "Kamanzi"
+  title: "Country Mentor"
+  thumbnailUrl: NicholasKamanzi.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/b/111272613539973122492/117443012724015493091"}
-    - {name: "twitter", link: "https://twitter.com/maghipearl"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
