@@ -5,26 +5,26 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Makerere DevFest"
+title: "GDG Busitema DevFest"
 email: "gdgmakererere@googlegroups.com"
-description: "Android: Making good apps great!"
+description: "Devfest Busitema is back!"
 baseurl: ""
-url: "http://gdgmakerere.github.io"
+url: "http://gdgbusitema.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-55332211-1"
-googleAnalyticsSiteUrl: "gdgmakerere.github.io"
+googleAnalyticsTrackingId: "UA-55769278-1"
+googleAnalyticsSiteUrl: "gdgbusitema.github.io"
 
 # Organizer Info
-organizerName: "GDG Makerere"
-organizerAlternateName: "Google Developer Group Makerere"
+organizerName: "GDG Busitema"
+organizerAlternateName: "Google Developer Group Busitema"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "gdgmakerere@googlegroups.com"
+organizerEmail: "nickkamanzi@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://developers.google.com/groups/chapter/111272613539973122492/"
+organizerLink: "https://plus.google.com/111838817416099422384"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, developers, makerere"
-twitterAccount: "@GdgMakerere"
+metaKeywords: "event, gdg, devfest, google, programming, android, developers, Busitema, app-engine"
+twitterAccount: ""
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -44,18 +44,18 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/showcase/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/5Aenbr", text: "Register here"}
+ - {link: "https://docs.google.com/forms/d/1WCPrIfgrZ5Hu2nWez9lsFQ7RuQiIBQHjWP3fWg0AQ5Y/viewform", text: "Register here"}
 rightNavigationButtons:
- - {link: "http://goo.gl/5Aenbr", text: "Register here"}
+ - {link: "https://docs.google.com/forms/d/1WCPrIfgrZ5Hu2nWez9lsFQ7RuQiIBQHjWP3fWg0AQ5Y/viewform", text: "Register here"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG Makerere DevFest 2014 <typeout>"
+heroTitle: "GDG Busitema DevFest 2014 <typeout>"
 eventDate: "18th October, 2014"
 typeoutTextValues: '"", "Apps", "Android", "Codelabs", "Cloud"'
 typeoutFallback: "Android"
 heroButtons:
- - {link: "http://goo.gl/5Aenbr", text: "Register here"}
+ - {link: "https://docs.google.com/forms/d/1WCPrIfgrZ5Hu2nWez9lsFQ7RuQiIBQHjWP3fWg0AQ5Y/viewform", text: "Register here"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -69,8 +69,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "70", specialCharacter: "+", info: "attendees", detail: "Students, Developers, Designers on campus"}
- - {count: "5", specialCharacter: "+", info: "hours", detail: "of in depth Android talks and codelabs"}
- - {count: "7", specialCharacter: "+", info: "speakers", detail: "With great experience"}
+ - {count: "5", specialCharacter: "+", info: "hours", detail: "of in depth Android & Google cloud talks and codelabs"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "With great experience"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -84,19 +84,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "CEDAT Conference Hall"
-eventLocationLink: "http://cedat.mak.ac.ug/"
-eventStreetAddress: "Technology New Building"
-eventAddressLocality: "Makerere University"
-eventAddressLocalityRegion: "Kampala"
+eventLocationName: "Busitema University"
+eventLocationLink: "http://busitema.ac.ug"
+eventStreetAddress: "Busitema"
+eventAddressLocality: "Busitema University"
+eventAddressLocalityRegion: "Tororo"
 eventPostalCode: 
 eventAddressCountry: "Uganda"
-eventStartTime: "2014-10-25T09:00"
+eventStartTime: "2014-10-25T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2014-10-25T16:00"
-eventPlaceCoordinates: "0.336631, 32.564329"
-mapCenterCoordinates: "0.336631, 32.564329"
-mapMobileCenterCoordinates: "0.336631, 32.564329"
+eventEndTime: "2014-10-25T17:00"
+eventPlaceCoordinates: "0.547428, 34.020123"
+mapCenterCoordinates: "0.547428, 34.020123"
+mapMobileCenterCoordinates: "0.547428, 34.020123"
 
 # Venue Block
 # venueBlockTitle: "Venue"
@@ -110,7 +110,7 @@ mapMobileCenterCoordinates: "0.336631, 32.564329"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfestmakerere"
+twitterHashTag: "devfestbusitema"
 twitterFeed: 
 
 # Partners Block
@@ -166,20 +166,19 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/111272613539973122492", icon: "google-plus"}
- - {link: "https://twitter.com/GdgMakerere", icon: "twitter"}
+ - {link: "https://plus.google.com/111838817416099422384", icon: "google-plus"}
  # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://developers.google.com/groups/chapter/111272613539973122492/", text: "GDG Makerere"}
+   - {link: "https://developers.google.com/groups/chapter/111838817416099422384/", text: "GDG Busitema"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:gdgmakerere@googlegroups.com", text: "gdgmakerere@googlegroups.com"}
+   - {link: "mailto:nickkamanzi@gmail.com", text: "email"}
 
 # Blog
 blogTitle: "Latest news"

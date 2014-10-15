@@ -8,6 +8,7 @@
   thumbnailUrl: LornaMaria.jpg
   rockstar: true
   social: 
+   - {name: "google-plus", link: "https://plus.google.com/108081669413181306743"}
 - 
   id: 4
   name: "Edgar"
@@ -18,7 +19,7 @@
   thumbnailUrl: EdgarAtukunda.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/113546109728176017516"}
 - 
   id: 5
   name: "Nicholas"
@@ -29,8 +30,8 @@
   thumbnailUrl: NicholasKamanzi.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/100378167101355270103"}
+    - {name: "twitter", link: "https://twitter.com/Nickle_las"}
 - 
   id: 6
   name: "George"

@@ -16,7 +16,7 @@
   title: "Keynote"
   description: ""
   subtype: keynote
-  speakers: [3]
+  speakers: [3, 7]
   language: en
   complexity: "Beginner"
 -
@@ -42,7 +42,7 @@
   subtype: workshop
   speakers: []
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
 -
   id: 006
   title: "Teams Brainstorming"

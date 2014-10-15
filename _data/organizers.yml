@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Makerere", description: "GDG Makerere - Open and volunteer geek community", link: "https://plus.google.com/b/111272613539973122492/111272613539973122492", imageUrl: "gdg-makerere.svg"}
+    - {name: "GDG Busitema", description: "GDG Busitema - Open and volunteer geek community", link: "https://plus.google.com/111838817416099422384", imageUrl: "gdg-busitema.svg"}
 - 
   # group: "Co-organizers"
   # elements: 

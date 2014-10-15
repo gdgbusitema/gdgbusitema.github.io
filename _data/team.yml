@@ -2,13 +2,13 @@
   id: 0
   name: "Edgar"
   surname: "Atukunda"
-  title: "Lead Organizer"
+  title: "Organizer"
   thumbnailUrl: EdgarAtukunda.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+TimothyAsiimwe"}
+    - {name: "google-plus", link: "https://plus.google.com/113546109728176017516"}
 - 
   id: 1
   name: "Nicholas"
@@ -19,5 +19,16 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/100378167101355270103"}
+    - {name: "twitter", link: "https://twitter.com/Nickle_las"}
+-
+  id: 7
+  name: "Williams"
+  surname: "Obia"
+  title: "Organizer"
+  thumbnailUrl: WilliamsObia.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/101566608241599284142"}
