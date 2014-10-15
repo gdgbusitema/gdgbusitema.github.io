@@ -69,7 +69,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "70", specialCharacter: "+", info: "attendees", detail: "Students, Developers, Designers on campus"}
- - {count: "5", specialCharacter: "+", info: "hours", detail: "of in depth Android & Google cloud talks and codelabs"}
+ - {count: "10", specialCharacter: "+", info: "hours", detail: "of in depth Android & Google cloud talks and codelabs"}
  - {count: "5", specialCharacter: "+", info: "speakers", detail: "With great experience"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 

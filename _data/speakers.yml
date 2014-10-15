@@ -35,11 +35,11 @@
 - 
   id: 6
   name: "George"
-  surname: ""
+  surname: "Machibya"
   company: ""
   title: ""
   bio: ''
-  thumbnailUrl: George.jpg
+  thumbnailUrl: GeorgeMachibya.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: ""}
